@@ -10,4 +10,4 @@ use git diff
 
 쇼핑몰 만들기
 
-conflict 실습
+ㅎㅇ
