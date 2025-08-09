@@ -5,3 +5,5 @@
 rebase AppTest 시험
 
 rebase main 시험 다시
+
+squash & merge test in main
